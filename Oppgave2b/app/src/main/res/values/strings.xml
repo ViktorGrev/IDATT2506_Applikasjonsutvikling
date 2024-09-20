@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Opp2b</string>
+    <string name="adder">Adder</string>
+    <string name="multipliser">Multipliser</string>
+    <string name="svar">Svar:</string>
+    <string name="ovre">Øvre grense:</string>
+    <string name="riktig">Riktig</string>
+    <string name="feil">Feil. RIktig svar er</string>
+</resources>

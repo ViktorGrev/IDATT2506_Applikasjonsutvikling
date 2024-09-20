@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"]
+  },
+  {
+    "title": "The Matrix",
+    "director": "The Wachowskis",
+    "actors": ["Keanu Reeves", "Laurence Fishburne"]
+  },
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "actors": ["Matthew McConaughey", "Anne Hathaway"]
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "actors": ["Christian Bale", "Heath Ledger"]
+  },
+  {
+    "title": "Fight Club",
+    "director": "David Fincher",
+    "actors": ["Brad Pitt", "Edward Norton"]
+  }
+]
